@@ -1,0 +1,16 @@
+// ISEQ1: Test addition
+//tlc type: run
+//tlc case:  f=32,32  
+//tlc case:  t=12,11  
+//tlc case:  t=1,11  
+//tlc case:  t=-1,4 
+//tlc case:  t=44,43
+//tlc case:  f=0,0
+//tlc case:  f=-894,-894
+//tlc case:  t=12,-12
+//tlc case:  f=-123,-123
+//tlc case:  f=11,0x0000000b
+
+signed a,b;
+a!=b;
+
