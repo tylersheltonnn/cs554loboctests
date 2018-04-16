@@ -1,16 +1,11 @@
-// ISEQ1: Test addition
+// ISEQ1: Test equavalance and assigning of new bool then compares bool against bool
 //tlc type: run
-//tlc case:  t=32,32  
-//tlc case:  t=12,11  
-//tlc case:  t=1,11  
-//tlc case:  t=-1,4 
-//tlc case:  t=44,43
-//tlc case:  t=0,0
-//tlc case:  t=-894,-894
-//tlc case:  t=12,-12
-//tlc case:  t=-123,-123
-//tlc case:  t=11,0x0000000b
-
+//tlc case:  t=32,32,t  
+//tlc case:  t=12,11,f  
+//tlc case:  f=12,11,t  
+//tlc case:  f=55,55,f  
+//tlc case:  t=12,12,t  
 signed a,b;
-a!=b || a==b;
+bool c;
+a==b==c;
 
