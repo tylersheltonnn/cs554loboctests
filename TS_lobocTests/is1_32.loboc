@@ -1,4 +1,4 @@
-// ISEQ1: Test addition
+// ISEQ1: Test equivalance
 //tlc type: run
 //tlc case:  t=32,32  
 //tlc case:  f=12,11  

@@ -1,4 +1,4 @@
-// ISEQ1: Test four-function arithmetic
+// ISEQ1: Test test multiplication with addition and more addition
 //tlc type: run
 //tlc case:  3=1,2,1,0,0 case: -3=7,-10,1,0,0 case: 0xffffffff=0xffff0000,0x0000ffff,1,0,0
 //tlc case:  8=1,2,0,8,0 case: 8=7,-10,0,8,0 case: 1=0xffff0000,0x0000ffff,0,1,0

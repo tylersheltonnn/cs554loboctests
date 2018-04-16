@@ -1,4 +1,4 @@
-// ISEQ1: Test four-function arithmetic
+// ISEQ1: Test multiplication with division
 //tlc type: run
 //tlc case:  16=268369920,16711680,0,0,1
 

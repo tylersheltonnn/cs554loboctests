@@ -1,7 +1,7 @@
-// ISEQ1: Test addition
+// ISEQ1: Tests loading a single bool
 //tlc type: run
-//tlc case:  1=1  
-//tlc case:  0=0  
+//tlc case:  t=t  
+//tlc case:  f=f  
 bool a;
 a;
 

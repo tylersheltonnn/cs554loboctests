@@ -1,4 +1,4 @@
-// ISEQ1: Test addition
+// ISEQ1: Test OP operation 
 //tlc type: run
 //tlc case:  t=t,t  
 //tlc case:  t=f,t  

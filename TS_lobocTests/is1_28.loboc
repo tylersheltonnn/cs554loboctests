@@ -1,4 +1,4 @@
-// ISEQ1: Test addition
+// ISEQ1: Test addition and subtraction of actual number
 //tlc type: run
 //tlc case:  4=1,3,1   case: -6=-1,-3,-1 case: 98=99,-1,1  case: -1=0,0,0
 //tlc case:  2=-1,3,1  case: 0xfffffffe=0xf0f0f0f0,0x0f0f0f0f,0  case: 2=0xffffffff,3,1

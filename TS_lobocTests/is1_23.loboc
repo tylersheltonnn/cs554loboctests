@@ -1,4 +1,4 @@
-// ISEQ1: Test addition
+// ISEQ1: Test negate operation
 //tlc type: run
 //tlc case:  1=-1  
 //tlc case:  -1=1  

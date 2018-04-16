@@ -1,4 +1,4 @@
-// ISEQ1: Test addition
+// ISEQ1: Test addition in deep parens
 //tlc type: run
 //tlc case:  4=1,3   case: -4=-1,-3 case: 98=99,-1  case: 0=0,0
 //tlc case:  2=-1,3  case: 0xffffffff=0xf0f0f0f0,0x0f0f0f0f  case: 2=0xffffffff,3
