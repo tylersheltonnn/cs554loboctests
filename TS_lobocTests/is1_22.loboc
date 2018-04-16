@@ -1,0 +1,14 @@
+// ISEQ1: Test addition
+//tlc type: run
+//tlc case:  t=t,t,t  
+//tlc case:  f=f,f,f  
+//tlc case:  f=t,f,f  
+//tlc case:  f=f,t,t 
+//tlc case:  f=f,t,f 
+//tlc case:  f=t,f,t 
+//tlc case:  f=f,f,t 
+//tlc case:  f=t,t,f 
+
+bool a,b,c;
+a && b && c;
+

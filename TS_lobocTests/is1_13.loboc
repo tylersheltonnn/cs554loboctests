@@ -1,0 +1,5 @@
+// ISEQ1: Test addition and layout padding
+//tlc type: run
+//tlc case:  4=1,3,1   case: 2=1,1,1 case: 5=2,3,1
+unsigned a,b,c;
+a+b*c;
