@@ -1,4 +1,4 @@
-// ISEQ1: Test logical operations
+// ISEQQQ3: Test logical operations
 //tlc type: run
 //tlc case:  t=t,t,t,t  
 //tlc case:  f=f,f,f,f  

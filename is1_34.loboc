@@ -1,4 +1,4 @@
-// ISEQ1: Test equavalance and assigning of new bool then compares bool against bool
+// ISEQ333: Test equavalance and assigning of new bool then compares bool against bool
 //tlc type: run
 //tlc case:  t=32,32,t  
 //tlc case:  t=12,11,f  
