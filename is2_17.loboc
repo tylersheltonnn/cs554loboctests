@@ -1,0 +1,17 @@
+// ISEQ2: Test Operations This is designed to break you code if you store values 
+//        in registers and don't short circut properly.
+//tlc type: run
+//tlc case:  t=32,32  
+//tlc case:  t=12,11  
+//tlc case:  t=1,11  
+//tlc case:  t=-1,4 
+//tlc case:  t=44,43
+//tlc case:  t=0,0
+//tlc case:  t=-894,-894
+//tlc case:  t=12,-12
+//tlc case:  t=-123,-123
+//tlc case:  t=11,0x0000000b
+
+signed a,b;
+(a!=b) || (a==b);
+
